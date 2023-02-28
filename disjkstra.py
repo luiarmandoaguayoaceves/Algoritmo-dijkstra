@@ -88,6 +88,7 @@ if __name__ == '__main__':
     gr.agregar_vertice('a')
     gr.agregar_vertice('b')
     gr.agregar_vertice('c')
+    
 
     gr.agregar_arista('a', 'b', 8)
     gr.agregar_arista('a', 'c', 4)
